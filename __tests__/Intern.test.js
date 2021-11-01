@@ -1,4 +1,4 @@
-// setup intern dependecy
+// setup intern dependency
 const Intern = require("../lib/Intern");
 
 // test setting school via constructor
