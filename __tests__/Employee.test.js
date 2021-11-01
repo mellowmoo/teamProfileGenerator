@@ -1,8 +1,8 @@
 // Employee dependency
 const Employee = require('../lib/Employee');
 
-// test to see if Employe initializes as an object
-test('Can instantiate Employee instantce', () => {
+// test to see if Employee initializes as an object
+test('Can instantiate Employee instant]ce', () => {
     const e = new Employee();
     expect(typeof(e)).toBe('object');
 });
